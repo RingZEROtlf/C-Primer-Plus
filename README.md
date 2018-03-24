@@ -13,7 +13,7 @@ Chapters are listed below (bold ones are finished).
 8. **Character Input/Output and Input Validation**
 9. **Functions**
 10. **Arrays and Pointers**
-11. Character Strings and String Functions
+11. **Character Strings and String Functions**
 12. Storage Classes, Linkage, and Memory Management
 13. File Input/Output
 14. Structures and Other Data Forms
