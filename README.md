@@ -14,7 +14,7 @@ Chapters are listed below (bold ones are finished).
 9. **Functions**
 10. **Arrays and Pointers**
 11. **Character Strings and String Functions**
-12. Storage Classes, Linkage, and Memory Management
+12. **Storage Classes, Linkage, and Memory Management**
 13. File Input/Output
 14. Structures and Other Data Forms
 15. Bit Fiddling
