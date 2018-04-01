@@ -19,6 +19,6 @@ Please post issues or pull requests if you found mistakes in this project. Thank
 12. **Storage Classes, Linkage, and Memory Management**
 13. **File Input/Output**
 14. **Structures and Other Data Forms**
-15. Bit Fiddling
+15. **Bit Fiddling**
 16. The C Preprocessor and the C Library
 17. Advanced Data Representation
