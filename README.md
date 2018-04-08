@@ -21,4 +21,6 @@ Please post issues or pull requests if you found mistakes in this project. Thank
 14. **Structures and Other Data Forms**
 15. **Bit Fiddling**
 16. **The C Preprocessor and the C Library**
-17. Advanced Data Representation
+17. **Advanced Data Representation**
+
+Finally it's finished :)
